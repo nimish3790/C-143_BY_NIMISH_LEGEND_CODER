@@ -1,1 +1,2 @@
-# C-143_BY_NIMISH_LEGEND_CODER
+# imdb-moive-recommendation-stage-1
+Movie Recommendation app
